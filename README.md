@@ -69,3 +69,47 @@ python main.py
 
 Press **ESC key** to exit the program.
 
+---
+
+## 📸 Output
+
+* Webcam window opens
+* Detects person in real-time
+* Displays **"INTRUSION!"** label
+* Prints alert message in console
+
+---
+
+## 🚀 Future Enhancements
+
+* Email/SMS alert system
+* Face recognition integration
+* Multi-camera support
+* Deployment on Raspberry Pi
+
+---
+
+## ⚠️ Limitations
+
+* Depends on lighting conditions
+* May give false positives in crowded scenes
+
+---
+
+## 👨‍💻 Author
+
+Deendayal Kumar
+
+---
+
+## 📚 References
+
+* YOLOv8 Documentation – Ultralytics
+* OpenCV Documentation
+* COCO Dataset
+
+---
+
+
+
+
