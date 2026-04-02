@@ -97,15 +97,15 @@ Press **ESC key** to exit the program.
 
 
 🚀 Future Improvements
-Face recognition for authorized users
-Mobile notification alerts 📱
-Cloud-based monitoring
-Multi-camera support
-Intrusion logging system
+- Face recognition for authorized users
+- Mobile notification alerts 📱
+- Cloud-based monitoring
+- Multi-camera support
+- Intrusion logging system
 
 📊 Applications
-Home Security Systems 🏠
-Office Surveillance 🏢
-Smart Monitoring Systems 🤖
-Restricted Area Protection 🚫
+- Home Security Systems 🏠
+- Office Surveillance 🏢
+- Smart Monitoring Systems 🤖
+- Restricted Area Protection 🚫
 
