@@ -47,7 +47,7 @@ intrusion-detection/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/intrusion-detection.git
+git clone https://github.com/deen-cyber/intrusion-detection.git
 cd intrusion-detection
 ```
 
