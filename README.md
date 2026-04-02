@@ -36,7 +36,7 @@ intrusion-detection/
 │── requirements.txt
 │── README.md
 │── alarm.wav (optional)
-│── screenshot.png (optional)
+│── screenshot.png 
 
 
 ---
@@ -77,7 +77,7 @@ Press **ESC key** to exit the program.
 
 ---
 
-## 📸 Output
+## 📸 Output(Check screenshot.png)
 
 - Opens live webcam feed  
 - Detects human presence in real-time  
@@ -86,6 +86,26 @@ Press **ESC key** to exit the program.
 - Generates alert message in console  
 
 ---
+🛠️ Tech Stack
+| Technology           | Purpose                          |
+| -------------------- | -------------------------------- |
+| Python               | Core programming language        |
+| OpenCV               | Video capture & image processing |
+| YOLOv8 (Ultralytics) | Object detection model           |
+| NumPy                | Numerical computations           |
+| Playsound            | Audio alert system               |
 
-## 📸 Output Screenshot
+
+🚀 Future Improvements
+Face recognition for authorized users
+Mobile notification alerts 📱
+Cloud-based monitoring
+Multi-camera support
+Intrusion logging system
+
+📊 Applications
+Home Security Systems 🏠
+Office Surveillance 🏢
+Smart Monitoring Systems 🤖
+Restricted Area Protection 🚫
 
